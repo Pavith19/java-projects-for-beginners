@@ -104,12 +104,14 @@ Contributions are welcome! To contribute:
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## Author
-
-**Kalutu Daniel**
-
-For questions or suggestions, please open an issue on GitHub.
-
 ---
 
-⭐ If you find this project helpful, please consider giving it a star!
+<div align="center">
+
+### ✍️ Written by [**Pavith Bambaravanage**](https://github.com/Pavith19)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Pavith19)
+
+</div>
+
+---
